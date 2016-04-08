@@ -1,0 +1,43 @@
+/* Inserta tu código aqui */
+*, body{
+	margin:0;
+	padding: 0;
+}
+
+.contenedor{
+	margin: 90px auto;
+	width: 700px;
+}
+.contenedor{
+
+	font-size: 12px;
+}
+
+.foto{
+	width: 200px;
+	display: inline-block;
+	margin: 15px;
+}
+.foto p{
+	color: #fff;
+	margin-top: -28px;
+	margin-left: 108px;
+}
+hr{
+	border: none;
+	height: 3px;
+	width: 70px;
+	background-color: #000;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+img{
+	-webkit-filter:contrast(50%);
+}
+img:hover{
+	-webkit-filter:contrast(100%);
+}
+
+
+
+
